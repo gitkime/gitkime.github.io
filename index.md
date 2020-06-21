@@ -1,5 +1,11 @@
 # Pro Git
 
+Widmungen
+An meine Frau Becky, ohne die dieses Abenteuer nie begonnen hätte. – Ben
+Diese Ausgabe ist meinen Mädchen gewidmet. Meiner Frau Jessica, die mich all die Jahre unterstützt
+hat und meiner Tochter Josephine, die mich unterstützen wird, wenn ich zu alt bin, um noch zu
+verstehen, was vor sich geht. – Scott
+
 
 ### Everything what you need know about Git
 
