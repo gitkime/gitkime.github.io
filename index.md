@@ -6,6 +6,15 @@ Diese Ausgabe ist meinen Mädchen gewidmet. Meiner Frau Jessica, die mich all di
 hat und meiner Tochter Josephine, die mich unterstützen wird, wenn ich zu alt bin, um noch zu
 verstehen, was vor sich geht. – Scott
 
+## Vorwort von Scott Chacon
+
+* Herzlich willkommen bei der zweiten Auflage von Pro Git. 
+* In der ersten Auflage von Pro Git habe ich ein kurzes Kapitel über GitHub verfasst. zeigen, wie Git Hosting aussehen kann. Ich habe mich beim Schreiben des Kapitels
+
+ * Es war großartig dabei zuzuschauen, wie sich Git die letzten paar Jahre weiterentwickelt hat.
+
+* Ich hoffe, Sie haben viel Spaß mit der neuen Auflage von Pro Git.
+
 
 ### Everything what you need know about Git
 
