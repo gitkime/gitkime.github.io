@@ -31,3 +31,5 @@ View, CA 94042, USA.
 > hat und meiner Tochter Josephine, die mich unterstützen wird, wenn ich zu alt bin, um noch zu
 > verstehen, was vor sich geht. – Scott
 
+<img src="/pro_git.jpg">
+
